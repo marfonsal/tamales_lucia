@@ -1,0 +1,13 @@
+=== Registro de Producción (29/11/2025 14:35:13) ===
+Tamal Rojo: 25
+Tamal Verde: 25
+Tamal de Pollo: 15
+Tamal Dulce: 15
+Litros Atole: 5
+
+=== Registro de Producción (29/11/2025 14:50:30) ===
+Tamal Rojo: 25
+Tamal Verde: 25
+Tamal de Pollo: 25
+Tamal Dulce: 15
+Litros Atole: 5
